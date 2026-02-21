@@ -1,4 +1,4 @@
-﻿-- Schema for SappaduNeram (PostgreSQL)
+﻿-- 001_initial.sql - initial schema
 
 CREATE TABLE IF NOT EXISTS users (
   id SERIAL PRIMARY KEY,
